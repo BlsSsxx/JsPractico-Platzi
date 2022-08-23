@@ -8,3 +8,10 @@ Curso de Javascript
 -2: implementar las formulas en js
 -3: creas funciones
 -4: integrar js con html
+
+## Taller #2: Porcentajes y descuentos
+
+-1: Definir las formas
+-2: implementar las formulas en js
+-3: creas funciones
+-4: integrar js con html
